@@ -1,0 +1,16 @@
+# 벡터DB (용량 큼)
+chroma_db/
+
+# 처리 기록
+seen_documents.json
+
+# PDF 문서 (저작권)
+docs/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
