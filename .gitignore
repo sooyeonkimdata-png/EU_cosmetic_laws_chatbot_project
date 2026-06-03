@@ -14,3 +14,7 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# PDF 문서 (저작권)
+docs/
+!docs/.gitkeep
